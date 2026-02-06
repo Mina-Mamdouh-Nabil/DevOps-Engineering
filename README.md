@@ -4,8 +4,6 @@
 
   ![GitHub stars](https://img.shields.io/github/stars/Mina-Mamdouh-Nabil/DevOps-Engineering?style=for-the-badge)
   ![GitHub forks](https://img.shields.io/github/forks/Mina-Mamdouh-Nabil/DevOps-Engineering?style=for-the-badge)
-  ![GitHub license](https://img.shields.io/github/license/Mina-Mamdouh-Nabil/DevOps-Engineering?style=for-the-badge)
-</div>
 
 ---
 
@@ -15,7 +13,6 @@
 - 🛠️ What You’ll Find Here  
 - 🚀 How to Use This Repo  
 - 🤝 Contributing & Learning Together  
-- 📜 License  
 
 ---
 
@@ -59,12 +56,6 @@ This repo is mainly for my personal learning, but if you find something useful:
 - 🔧 Submit a pull request  
 
 Let’s grow together in DevOps 💙
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ---
 
